@@ -1,6 +1,6 @@
 # Express REST API  #
 
- Simple Rest API Anyone can Perform Operation(Postman) Using These URLS. Array Objects Are Used for Dummy Data and Default Port is 3000 
+ Simple Rest API Anyone can Perform Operation(Postman) Using These URLS. Array Objects Are Used for Dummy Data and (Default Port is 3000)
 
 <i> First Need to install  `npm i` require modules included on package.json file </i>
 
