@@ -1,6 +1,6 @@
 # Express REST API  #
 
-### Simple Rest API. You can Perform Operation Using These URLS. Array Objects Are Used for Dummy Data. Default Port is 3000 ###
+### Simple Rest API Anyone can Perform Operation Using These URLS. Array Objects Are Used for Dummy Data and Default Port is 3000 ###
 
 ### First Need to initalized repository to install  `npm i` requires modules included on package.json file ###
 
