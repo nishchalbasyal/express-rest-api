@@ -1,0 +1,28 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Simple Restful Api where system (postman) can communicate with the server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainishchal/rest-api.git"
+  },
+  "keywords": [
+    "Rest",
+    "API"
+  ],
+  "author": "Nishchal BAsyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainishchal/rest-api/issues"
+  },
+  "homepage": "https://github.com/ainishchal/rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
